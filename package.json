@@ -1,6 +1,6 @@
 {
   "name": "roast-a-dev",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A funny developer roast generator.",
   "main": "index.js",
   "bin": {
@@ -15,5 +15,8 @@
     "interactive"
   ],
   "author": "Vivek",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }

@@ -49,6 +49,24 @@ You write JavaScript like it's Java... and that's terrifying.
 
 ---
 
+## 🎯 Use Roast Categories
+
+```bash
+npx roast-a-dev --category=git
+npx roast-a-dev --category=savage
+npx roast-a-dev --category=friendly
+```
+
+---
+
+## ❓ Help Command
+
+```bash
+npx roast-a-dev --help
+```
+
+---
+
 ## 😂 Sample Roasts
 
 - "Your code is so async, even promises ghost you."
@@ -68,7 +86,6 @@ You write JavaScript like it's Java... and that's terrifying.
 
 ## 💡 Future Ideas
 
-- Roast categories: `--tech`, `--dark`, `--friendly`
 - Roast your Git commits automatically
 - Integrate into Slack bots or terminal prompts
 
