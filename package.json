@@ -1,12 +1,19 @@
 {
-  "name": "roast-me",
+  "name": "@vivek/roast-me",
   "version": "1.0.0",
-  "description": "",
+  "description": "A funny developer roast generator.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "roast-me": "./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "roast",
+    "funny",
+    "cli",
+    "developer",
+    "npm",
+    "interactive"
+  ],
+  "author": "Vivek",
+  "license": "MIT"
 }
