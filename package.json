@@ -1,6 +1,6 @@
 {
   "name": "roast-a-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A funny developer roast generator.",
   "main": "index.js",
   "bin": {
