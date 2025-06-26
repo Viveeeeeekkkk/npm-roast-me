@@ -1,10 +1,10 @@
 {
-  "name": "@vivek/roast-me",
+  "name": "roast-a-dev",
   "version": "1.0.0",
   "description": "A funny developer roast generator.",
   "main": "index.js",
   "bin": {
-    "roast-me": "./index.js"
+    "roast-a-dev": "./index.js"
   },
   "keywords": [
     "roast",
