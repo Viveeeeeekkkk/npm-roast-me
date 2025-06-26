@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const roasts = [
   "Your code is so async, even promises ghost you.",
   "You write JavaScript like it's Java... and that's terrifying.",
