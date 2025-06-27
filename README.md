@@ -3,6 +3,7 @@
 🔥 Get roasted like a true developer 🔥  
 Fun, interactive, and savage roast generator for programmers and devs.
 
+![Weekly Downloads](https://img.shields.io/npm/dw/roast-a-dev?label=downloads)
 ---
 
 ## 📦 Installation
